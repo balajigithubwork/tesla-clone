@@ -1,8 +1,6 @@
 {
   "name": "zomato",
-  "homepage": "https://omiiiiiii.github.io/xomatao-clone-live",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@flaticon/flaticon-uicons": "^1.7.0",
     "@testing-library/jest-dom": "^5.16.4",
@@ -28,18 +26,6 @@
     "extends": [
       "react-app",
       "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
     ]
   }
 }
